@@ -2,7 +2,7 @@
 
 * Last name: Zamansky
 
-* First name: Mike
+* First name: Michael
 
 * GitHub username: zamansky 
 
